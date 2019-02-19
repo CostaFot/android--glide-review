@@ -4,6 +4,7 @@
     package="com.feelsokman.glidereview">
 
     <dist:module dist:instant="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
